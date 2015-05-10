@@ -1,6 +1,6 @@
 dstatus : An over-engineered text status bar manager.
 
-dstatus is a status bar manager for window managers with text based status bars such as dwm. Items in the status bar can be added, removed or manipulated dynamically, triggered by pre-set behavioural rules or asynchroneous commands received through a memory mapped pipe.
+dstatus is a status bar manager for window managers with text based status bars such as dwm. Items in the status bar can be added, removed or manipulated dynamically, triggered by pre-set behavioural rules or asynchronous commands received through a memory mapped pipe.
 
 STATUS:
 This project is only half-way completed, and is rather unstable currently. More information will come later on.
